@@ -5,12 +5,12 @@ public class App {
         System.out.println("         Gala to the Max si Leanna         ");
         System.out.println("-------------------------------------------");
 
-        Locations japan = new America();
-        Locations dubai = new Saudi();
+        Locations america = new America();
+        Locations saudi = new Saudi();
         Locations korea = new Korea();
         Locations philippines = new Philippines();
         Locations palawan = new Palawan();
-        Locations baguio = new Antipolo();
+        Locations antipolo = new Antipolo();
         
         
         Tourist me = new Me();
